@@ -1,15 +1,3 @@
-###########################################################################
-# Title: Computing n! with RISC-V ISA
-# Name: Amane Nakano
-# Student ID Number: s1113524
-# (a). How many hours did you spend for this homework?
-# ANS: 29 hours
-# (b). Who has helped you solve the coding problems?
-# ANS: None
-# (c). Do you copy someone’s code?
-# ANS: None
-###########################################################################
-
 .globl __start
 .rodata #read only data, can't be changed during execution this code
 # in c++ like
