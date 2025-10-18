@@ -42,7 +42,3 @@ Please enter a non-negative number (a negative for exit): -1
 - Register operations (mv, mul, addi, etc.)
 - Looping with labels and beq/bltz
 - Conditional branching and program termination
-
-🧠 Summary
-This program serves as a hands-on introduction to RISC-V assembly by combining user interaction, arithmetic computation, and control flow.
-It is ideal for beginners learning low-level programming, system calls, and register-based computation in RISC-V.
